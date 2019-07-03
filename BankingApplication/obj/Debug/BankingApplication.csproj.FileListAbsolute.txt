@@ -1,0 +1,7 @@
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe.config
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.pdb
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csprojAssemblyReference.cache
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.exe
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.pdb

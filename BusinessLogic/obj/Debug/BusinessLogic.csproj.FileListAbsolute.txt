@@ -1,0 +1,11 @@
+C:\Users\Esibartels\source\repos\BankingApplication\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Esibartels\source\repos\BankingApplication\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Esibartels\source\repos\BankingApplication\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Esibartels\source\repos\BankingApplication\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Esibartels\source\repos\BankingApplication\BusinessLogic\bin\Debug\DataAccessLayer.dll
+C:\Users\Esibartels\source\repos\BankingApplication\BusinessLogic\bin\Debug\Entities.dll
+C:\Users\Esibartels\source\repos\BankingApplication\BusinessLogic\bin\Debug\Entities.pdb
+C:\Users\Esibartels\source\repos\BankingApplication\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+C:\Users\Esibartels\source\repos\BankingApplication\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Esibartels\source\repos\BankingApplication\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Esibartels\source\repos\BankingApplication\BusinessLogic\obj\Debug\BusinessLogic.pdb

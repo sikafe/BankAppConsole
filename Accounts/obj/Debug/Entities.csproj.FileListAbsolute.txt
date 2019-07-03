@@ -1,0 +1,6 @@
+C:\Users\Esibartels\source\repos\BankingApplication\Accounts\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Esibartels\source\repos\BankingApplication\Accounts\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Esibartels\source\repos\BankingApplication\Accounts\bin\Debug\Entities.dll
+C:\Users\Esibartels\source\repos\BankingApplication\Accounts\bin\Debug\Entities.pdb
+C:\Users\Esibartels\source\repos\BankingApplication\Accounts\obj\Debug\Entities.dll
+C:\Users\Esibartels\source\repos\BankingApplication\Accounts\obj\Debug\Entities.pdb

@@ -1,0 +1,14 @@
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.exe
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.pdb
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe.config
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.pdb
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\bin\Debug\BusinessLogic.dll
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\bin\Debug\Entities.dll
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\bin\Debug\DataAccessLayer.dll
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\bin\Debug\Entities.pdb
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\bin\Debug\BusinessLogic.pdb
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\bin\Debug\DataAccessLayer.pdb
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\obj\Debug\BankApplication.csprojAssemblyReference.cache
+C:\Users\Esibartels\source\repos\BankingApplication\BankingApplication\obj\Debug\BankApplication.csproj.CopyComplete
